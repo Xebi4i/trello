@@ -7,7 +7,7 @@
 
 # Compiled source #
 ###################
-*.py
+*.pyc
 *.py~
 *.dll
 *.exe
