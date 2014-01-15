@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'NBA_players',
+    'base_site',
 )
 
 MIDDLEWARE_CLASSES = (
