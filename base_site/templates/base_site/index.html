@@ -8,7 +8,22 @@
     <link href="{% static 'base_site/css/bootstrap.css' %}" rel="stylesheet">
   </head>
   <body>
-    <h1 class="lead">Hello, world!</h1>
+  	<div class="container">
+  		<div class="span12">
+  			<h1>This project focuses on basketball</h1>
+		</div>
+	</div>
+  	<div class="container-fixed">
+	  		<div class="span6">
+	  			<h4>Site Structure:</h4>
+	  			<dl class="dl-horizontal">
+	  				<dt>/admin</dt>
+	  					<dd>Page for admins</dd>
+	  				<dt>/players</dt>
+	  					<dd>Page with information about NBA players</dd>
+	  			</dl>
+			</div>
+	</div>
     <script src="{% static 'base_site/js/bootstrap.js' %}"></script>
   </body>
 </html>
