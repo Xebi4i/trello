@@ -1,2 +1,2 @@
-repository for my answers to trello cards.
+Repository for my answers to trello cards.
 
